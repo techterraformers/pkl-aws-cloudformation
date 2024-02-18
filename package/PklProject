@@ -1,0 +1,20 @@
+/// Templates for configuring [AWS CloudFormation](https://aws.amazon.com/cloudformation/).
+amends "pkl:Project"
+
+package {
+  name = "aws-cloudformation"
+  authors {
+    "Valerio Iachini <valerio.iachini@gmail.com>"
+    "Luca Iachini <luca.iachini89@gmail.com>"
+  }
+  version = "1.0.0"
+  baseUri = "package://pkg.techterraformers/pkl-aws-cloudformation/cloudformation"
+  packageZipUrl = "https://github.com/techterraformers/pkl-aws-cloudformatio/releases/download/\(name)@\(version)/\(name)@\(version).zip"
+  sourceCode = "https://github.com/techterraformers/pkl-aws-cloudformation"
+  sourceCodeUrlScheme = "https://github.com/techterraformers/pkl-aws-cloudformation/blob/1.0.0/package%{path}#%{line}-%{endLine}"
+  license = "Apache-2.0"
+  description = """
+    Templates for configuring [AWS CloudFormation](https://aws.amazon.com/cloudformation), 
+    a service for provisioning and managing AWS resources using code.
+    """
+}

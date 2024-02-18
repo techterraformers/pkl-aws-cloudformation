@@ -8,8 +8,8 @@ package {
     "Luca Iachini <luca.iachini89@gmail.com>"
   }
   version = "1.0.0"
-  baseUri = "package://pkg.techterraformers/pkl-aws-cloudformation/cloudformation"
-  packageZipUrl = "https://github.com/techterraformers/pkl-aws-cloudformatio/releases/download/\(name)@\(version)/\(name)@\(version).zip"
+  baseUri = "package://github.com/techterraformers/pkl-aws-cloudformation/cloudformation"
+  packageZipUrl = "https://github.com/techterraformers/pkl-aws-cloudformation/releases/download/\(name)@\(version).zip"
   sourceCode = "https://github.com/techterraformers/pkl-aws-cloudformation"
   sourceCodeUrlScheme = "https://github.com/techterraformers/pkl-aws-cloudformation/blob/1.0.0/package%{path}#%{line}-%{endLine}"
   license = "Apache-2.0"

@@ -9,7 +9,7 @@ package {
   }
   version = "1.0.0"
   baseUri = "package://github.com/techterraformers/pkl-aws-cloudformation/cloudformation"
-  packageZipUrl = "https://github.com/techterraformers/pkl-aws-cloudformation/releases/download/\(name)@\(version).zip"
+  packageZipUrl = "https://github.com/techterraformers/pkl-aws-cloudformation/releases/download/\(version)/\(name)@\(version).zip"
   sourceCode = "https://github.com/techterraformers/pkl-aws-cloudformation"
   sourceCodeUrlScheme = "https://github.com/techterraformers/pkl-aws-cloudformation/blob/1.0.0/package%{path}#%{line}-%{endLine}"
   license = "Apache-2.0"

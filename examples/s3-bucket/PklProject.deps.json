@@ -5,7 +5,7 @@
       "type": "remote",
       "uri": "projectpackage://github.com/techterraformers/pkl-aws-cloudformation/releases/download/1.0.0/cloudformation@1.0.0",
       "checksums": {
-        "sha256": "3b86931aea46d5c394b47314dc21978853d9ad58cf6be458a9be96aec8d31623"
+        "sha256": "9462ee6c5e8d0e3f2f16503a5ef8fc47ca7f44b98a9d9fac77fdcac9ecb44dd7"
       }
     }
   }
